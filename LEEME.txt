@@ -1,0 +1,15 @@
+CONTROL DE INGRESOS PARA EMPRENDIMIENTOS
+
+Contenido:
+- index.html: sitio web completo.
+- Herramienta_Control_de_Ingresos.xlsx: archivo original de Excel para descargar desde la página.
+
+Para probarlo:
+1. Descomprime el archivo ZIP.
+2. Mantén index.html y el archivo .xlsx en la misma carpeta.
+3. Abre index.html en tu navegador.
+
+Para publicarlo:
+Sube ambos archivos a un servicio de alojamiento web estático (por ejemplo, GitHub Pages, Netlify o un hosting propio), conservando los dos archivos en la misma carpeta/ruta. El botón de descarga depende de que el archivo Excel permanezca junto al index.html.
+
+Las fotografías se cargan desde Unsplash, por lo que se requiere conexión a internet para mostrarlas. El contenido de la página y la descarga del Excel funcionan localmente.
